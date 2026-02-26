@@ -59,13 +59,13 @@ pip install re
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/kapilsinghnegi/Fake-News-Detection.git
+https://github.com/Harikrishnan1234-web/Fake-News-Detection-01.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd fake-news-detection
+cd fake-news-detection-01
 ```
 
 3. Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
